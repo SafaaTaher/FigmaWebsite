@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+@import url("../styles/fonts.css");
+
 h1,h2,h3,h5, .custom-heading {
   font-family: 'MyFont', serif;
 }
@@ -128,7 +130,7 @@ header {
 }
 .fs-60 {
   max-width: 745px;
-   font-size: clamp(1.75rem, 5vw , 3.75rem) !important;
+  font-size: clamp(1.75rem, 5vw , 3.75rem) !important;
 }
 .fs-48 {
    font-size: clamp(1.75rem, 5vw, 3rem) !important;

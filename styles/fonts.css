@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'MyFont'; 
-  src: url('assets/fonts/gilroy/Gilroy-Bold.ttf') format('truetype'); 
+  src: url('../assets/fonts/gilroy/Gilroy-Bold.ttf') format('truetype'); 
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'MyFont-semibold'; 
-  src: url('assets/fonts/gilroy/Gilroy-SemiBold.ttf') format('truetype'); 
+  src: url('../assets/fonts/gilroy/Gilroy-SemiBold.ttf') format('truetype'); 
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'MyFont-Light'; 
-  src: url('assets/fonts/gilroy/Gilroy-Light.ttf') format('truetype'); 
+  src: url('../assets/fonts/gilroy/Gilroy-Light.ttf') format('truetype'); 
   font-weight: normal;
   font-style: normal;
 }
