@@ -31,7 +31,7 @@ header {
 }
 .coworking-search {
   position: relative;
-  background-image: url("assets/images/BG.png");
+  background-image: url("../assets/images/BG.png");
   background-size: cover;
   background-position: center;
   margin-bottom: 39px;
